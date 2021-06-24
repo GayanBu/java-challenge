@@ -1,0 +1,10 @@
+spring:
+  h2:
+    console:
+      enabled: true
+#securing endpoints with username and password
+  security:
+    user:
+      name: monitor
+      password: monitor123
+

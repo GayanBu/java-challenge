@@ -1,8 +1,8 @@
 package jp.co.axa.apidemo.services;
 
-import jp.co.axa.apidemo.entities.Employee;
-
 import java.util.List;
+
+import jp.co.axa.apidemo.entities.Employee;
 
 public interface EmployeeService {
 
